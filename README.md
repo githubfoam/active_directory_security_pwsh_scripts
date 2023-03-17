@@ -1,0 +1,2 @@
+# active_directory_security_pwsh_scripts
+active directory powershell security ChatGPT
